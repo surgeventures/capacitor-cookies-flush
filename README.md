@@ -23,10 +23,8 @@ npx cap sync
 ### flush()
 
 ```typescript
-flush() => any
+flush() => Promise<void>
 ```
-
-**Returns:** <code>any</code>
 
 --------------------
 
