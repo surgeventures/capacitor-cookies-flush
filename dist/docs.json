@@ -1,0 +1,25 @@
+{
+  "api": {
+    "name": "CookiesFlushPlugin",
+    "slug": "cookiesflushplugin",
+    "docs": "",
+    "tags": [],
+    "methods": [
+      {
+        "name": "flush",
+        "signature": "() => Promise<void>",
+        "parameters": [],
+        "returns": "Promise<void>",
+        "tags": [],
+        "docs": "",
+        "complexTypes": [],
+        "slug": "flush"
+      }
+    ],
+    "properties": []
+  },
+  "interfaces": [],
+  "enums": [],
+  "typeAliases": [],
+  "pluginConfigs": []
+}
