@@ -18,9 +18,7 @@ var capacitorCookiesFlush = (function (exports, core) {
 
     exports.CookiesFlush = CookiesFlush;
 
-    Object.defineProperty(exports, '__esModule', { value: true });
-
     return exports;
 
-}({}, capacitorExports));
+})({}, capacitorExports);
 //# sourceMappingURL=plugin.js.map
